@@ -17,7 +17,7 @@
    *В окне скрипта имеется дальнейшая инструкция*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8c8898d7-a2ab-447b-8828-6e78f4be8642" alt="Превью Telegram уведомления" width="600"/>
+  <img src="https://github.com/user-attachments/assets/a8e453c8-ce85-40f4-ad69-4cb0cc166dde" width="600"/>
 </p>
 
 # 🛠 Поддержка
