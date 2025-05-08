@@ -4,6 +4,10 @@
   <img src="https://github.com/user-attachments/assets/1a929c3c-26a6-46a2-af79-220787ceb574" alt="Превью Telegram уведомления" width="400"/>
 </p>
 
+<p align="center">
+  <a href="https://www.blast.hk/threads/235758">blast.hk</a>
+</p>
+
 📲 ARZSMSNotifier — это скрипт для SAMP сервера Arizona RP, который отправляет SMS-уведомления из игры напрямую в Telegram через бота.
 
 ## 🖥 Установка и настройка скрипта
